@@ -24,7 +24,6 @@
 > **这对您意味着什么：**
 > - ✅ 所有功能保持不变
 > - ✅ 您的数据和设置得到保留
-> - ✅ 在新名称下继续开发和支持
 > - 🔗 **新项目地址**: [github.com/BaiRuic/BibGenie](https://github.com/BaiRuic/BibGenie)
 > - 🌐 **官方网站**: [www.bibgenie.com](https://www.bibgenie.com)
 > 
@@ -35,6 +34,8 @@
 ## 关于 Zotero Copilot
 
 **Zotero Copilot 是一款强大的 Zotero AI 助手插件，帮助研究人员理解 PDF 文献、回答研究问题、提升科研效率。**
+
+<img src="./public/blocks/main-page(empty-1440x1108).png" alt="Zotero Copilot Main Interface" width="800"/>
 
 **🌐 更多信息请访问官方网站：[www.bibgenie.com](https://www.bibgenie.com)**
 

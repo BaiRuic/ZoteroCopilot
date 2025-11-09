@@ -24,7 +24,6 @@
 > **What this means for you:**
 > - ✅ All features remain the same
 > - ✅ Your data and settings are preserved
-> - ✅ Continued development and support under the new name
 > - 🌐 **Official website**: [www.bibgenie.com](https://www.bibgenie.com)
 > 
 > Please visit our [new repository](https://github.com/BaiRuic/BibGenie) for the latest updates and releases. Thank you for your understanding and continued support! 🙏
@@ -34,7 +33,7 @@
 ## About Zotero Copilot
 
 **Zotero Copilot is a powerful AI assistant plugin for Zotero that helps researchers understand PDFs, answer research questions, and boost productivity.**
-
+<img src="./public/blocks/main-page(empty-1440x1108).png" alt="Zotero Copilot Main Interface" width="800"/>
 **🌐 Visit our official website for more information: [www.bibgenie.com](https://www.bibgenie.com)**
 
 [Download Plugin](#-installation) · [Join Discord](https://discord.gg/kDXFAAYDNE)
